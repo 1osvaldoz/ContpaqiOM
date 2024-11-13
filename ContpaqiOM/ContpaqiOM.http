@@ -1,0 +1,6 @@
+@ContpaqiOM_HostAddress = http://localhost:5238
+
+GET {{ContpaqiOM_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
