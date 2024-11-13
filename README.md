@@ -41,4 +41,4 @@
     </li>
 </ul>
 <h3>Ejemplo Valido</h3>
-![image](https://github.com/user-attachments/assets/ce17da8f-aa2d-4a19-85f7-447b6f4d18bb)
+<img src='url(https://github.com/user-attachments/assets/ce17da8f-aa2d-4a19-85f7-447b6f4d18bb)'/>
